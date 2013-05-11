@@ -1,0 +1,14 @@
+body,html {
+  height: 98%;
+}
+
+#input {
+  width: 49%;
+  height: 100%;
+}
+#output {
+  width: 50%;
+  height: 100%;
+  float: right;
+  overflow: auto;
+}
